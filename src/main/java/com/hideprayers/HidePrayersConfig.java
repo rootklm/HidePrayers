@@ -232,7 +232,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 19,
+			position = 21,
 			keyName = "ShowMystic",
 			name = "Show Mystic Might",
 			description = "Hide/Show Mystic Might"
@@ -243,7 +243,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 21,
+			position = 22,
 			keyName = "ShowRETRIBUTION",
 			name = "Show Retribution",
 			description = "Hide/Show Retribution"
@@ -254,7 +254,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 22,
+			position = 23,
 			keyName = "ShowRedemption",
 			name = "Show Redemption",
 			description = "Hide/Show Redemption"
@@ -265,7 +265,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 23,
+			position = 24,
 			keyName = "ShowSmite",
 			name = "Show Smite",
 			description = "Hide/Show Smite"
@@ -276,7 +276,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 24,
+			position = 25,
 			keyName = "ShowPreserve",
 			name = "Show Preserve",
 			description = "Hide/Show Preserve"
@@ -287,7 +287,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 25,
+			position = 26,
 			keyName = "ShowChivalry",
 			name = "Show Chivalry",
 			description = "Hide/Show Chivalry"
@@ -298,7 +298,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 26,
+			position = 27,
 			keyName = "ShowPiety",
 			name = "Show Piety",
 			description = "Hide/Show Piety"
@@ -309,7 +309,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 27,
+			position = 28,
 			keyName = "ShowRigour",
 			name = "Show Rigour",
 			description = "Hide/Show Rigour"
@@ -320,7 +320,7 @@ public interface HidePrayersConfig extends Config
 	}
 
 	@ConfigItem(
-			position = 28,
+			position = 29,
 			keyName = "ShowAugury",
 			name = "Show Augury",
 			description = "Hide/Show Augury"
